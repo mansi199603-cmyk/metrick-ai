@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">मेरा AI दोस्त / Mera AI Dost</string>
+    <string name="new_chat_button">New Chat / नई बातचीत</string>
+    <string name="new_chat">नई बातचीत / New Chat</string>
+    <string name="send_button">Send / भेजें</string>
+    <string name="send">भेजें / Send</string>
+    <string name="status_online">Online • ऑनलाइन</string>
+    <string name="status_subtitle">AI Dost • हिंदी और English</string>
+    <string name="welcome_greeting">नमस्ते! मैं हूँ आपका “मेरा AI दोस्त” 👋</string>
+    <string name="welcome_greeting_hi">नमस्ते! मैं हूँ आपका “मेरा AI दोस्त” 👋</string>
+    <string name="welcome_greeting_en">Hello! I am “Mera AI Dost” 👋</string>
+    <string name="welcome_description">आप मुझसे हिंदी या अंग्रेज़ी में कोई भी सवाल पूछ सकते हैं।</string>
+    <string name="welcome_desc_hi">आप मुझसे हिंदी या अंग्रेज़ी में कोई भी सवाल पूछ सकते हैं।</string>
+    <string name="welcome_desc_en">Feel free to ask me anything in Hindi or English.</string>
+    <string name="suggestions_title">कुछ सुझाव / Suggestions:</string>
+    <string name="suggestions_label_hi">कुछ सुझाव:</string>
+    <string name="suggestions_label_en">Suggestions:</string>
+    <string name="input_placeholder">यहाँ सवाल लिखें… (Ask in Hindi or English)</string>
+    <string name="input_placeholder_hi">यहाँ सवाल लिखें… (Ask in Hindi or English)</string>
+    <string name="input_placeholder_en">Type your question… (हिंदी या English)</string>
+    <string name="ai_thinking">AI दोस्त उत्तर सोच रहा है… / Generating response…</string>
+    <string name="ai_thinking_hi">AI दोस्त लिख रहा है…</string>
+    <string name="ai_thinking_en">Mera AI Dost is typing…</string>
+    <string name="dialog_new_chat_title">नई बातचीत शुरू करें? / New Chat?</string>
+    <string name="dialog_new_chat_desc">वर्तमान बातचीत साफ़ हो जाएगी। / The current chat will be refreshed.</string>
+    <string name="confirm">हाँ / Yes</string>
+    <string name="cancel">रद्द करें / Cancel</string>
+    <string name="lang_switch_tooltip">भाषा बदलें / Switch Language</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "मेरा AI दोस्त / Mera AI Dost",
+  "description": "एक सरल हिंदी और अंग्रेज़ी AI चैटबॉट ऐप (Mera AI Dost Bilingual Chatbot)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
